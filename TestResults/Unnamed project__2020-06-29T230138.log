@@ -1,0 +1,69 @@
+﻿2020-06-29T23:01:38.3766162+08:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-06-29T23:01:38.3766162+08:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.1.48 in Framework clr40 in x86 mode execution started
+2020-06-29T23:01:38.3766162+08:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\laksh\source\repos\TestProjectAuto\packages\SpecRun.Runner.3.1.48\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-06-29T23:01:38.4244900+08:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\laksh\source\repos\TestProjectAuto\TestProjectAuto\bin\Debug\TestProjectAuto.dll
+2020-06-29T23:01:38.4254873+08:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\laksh\source\repos\TestProjectAuto\TestResults" (default)
+2020-06-29T23:01:38.4254873+08:00;VSTestExecutionThread;Info;Profile: 
+2020-06-29T23:01:38.4504270+08:00;VSTestExecutionThread;Info;Log file path: C:\Users\laksh\source\repos\TestProjectAuto\TestResults\Unnamed project__2020-06-29T230138.log
+2020-06-29T23:01:38.4644264+08:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-06-29T23:01:38.4703740+08:00;Thread#13;Info;Checking license
+2020-06-29T23:01:38.4823427+08:00;Thread#13;Info;Evaluation mode: test execution starts in 10 seconds... (this delay is removed in the registered version)
+2020-06-29T23:01:48.4833402+08:00;Thread#13;Info;Evaluation delay finished.
+2020-06-29T23:01:48.4873214+08:00;Thread#13;Info;License check completed
+2020-06-29T23:01:48.4873214+08:00;Thread#13;Info;starting test run
+2020-06-29T23:01:48.4933069+08:00;Thread#13;Info;Discovering target: Default
+2020-06-29T23:01:48.4933069+08:00;Thread#13;Info;Discovering tests from assembly: C:\Users\laksh\source\repos\TestProjectAuto\TestProjectAuto\bin\Debug\TestProjectAuto.dll
+2020-06-29T23:01:48.7338469+08:00;Thread#13;Info;Discovered tests from assembly: C:\Users\laksh\source\repos\TestProjectAuto\TestProjectAuto\bin\Debug\TestProjectAuto.dll
+2020-06-29T23:01:48.7348433+08:00:Test Suite Dump
+2020-06-29T23:01:48.7368395+08:00:#0: Unnamed project/ - 
+2020-06-29T23:01:48.7368395+08:00:#1: Default - 
+2020-06-29T23:01:48.7368395+08:00:#2: TestProjectAuto - 
+2020-06-29T23:01:48.7368395+08:00:#3: GoogleSearch - 
+2020-06-29T23:01:48.7617712+08:00:#5: See for 'Google' - TestAssembly:TestProjectAuto/Feature:GoogleSearch/Scenario:See+for+%27Google%27
+2020-06-29T23:01:48.7627684+08:00:End: Test Suite Dump
+2020-06-29T23:01:48.7787579+08:00:Thread#0:Scheduler: get next test for thread 0
+2020-06-29T23:01:48.7797550+08:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2020-06-29T23:01:48.7797550+08:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-06-29T23:01:48.7827492+08:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-06-29T23:01:48.7827492+08:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-06-29T23:01:48.7827492+08:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-06-29T23:01:48.7827492+08:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-06-29T23:01:48.7837379+08:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-06-29T23:01:48.7847419+08:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-06-29T23:01:48.7867358+08:00:Thread #0: creating new test thread executor for TestProjectAuto, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-06-29T23:01:48.7877409+08:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-06-29T23:01:48.7897335+08:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-06-29T23:01:48.7916935+08:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-06-29T23:01:48.9453963+08:00:Thread#0:T:-> Loading plugin C:\Users\laksh\source\repos\TestProjectAuto\TestProjectAuto\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-06-29T23:01:48.9513813+08:00:Thread#0:T:-> Using default config
+2020-06-29T23:01:49.3071226+08:00:Thread#0: Test #5/0 is started on thread #0
+2020-06-29T23:01:49.3290649+08:00:Thread#0:B:Given I've launched chrome browser
+2020-06-29T23:01:52.5834334+08:00:Thread#0:T:done: Steps.GivenIVeLauchedChromeBrowser("chrome") (3.2s)
+2020-06-29T23:01:52.5844616+08:00:Thread#0:B:And I'm in google home page
+2020-06-29T23:01:53.0786134+08:00:Thread#0:T:done: Steps.GivenIMInGoogleHomePage() (0.5s)
+2020-06-29T23:01:53.0945685+08:00:Thread#0:Scheduler: get next test for thread 0
+2020-06-29T23:01:53.0945685+08:00:Thread#:Scheduler: at the end of normal test queue
+2020-06-29T23:01:53.0945685+08:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-06-29T23:01:53.0945685+08:00:Thread#0:Scheduler: No more tests for thread
+2020-06-29T23:01:53.1244902+08:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 3.8163692 seconds
+2020-06-29T23:01:53.1524466+08:00:Trying to cancel thread
+2020-06-29T23:01:53.1524466+08:00:Thread cancelled
+2020-06-29T23:01:53.1603935+08:00:Thread#-1:Scheduler: get next test for thread -1
+2020-06-29T23:01:53.1603935+08:00:Thread#:Scheduler: at the end of normal test queue
+2020-06-29T23:01:53.1603935+08:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-06-29T23:01:53.1623875+08:00;Thread#13;Info;test run finished
+2020-06-29T23:01:53.1623875+08:00;Thread#13;Info;publishing test results
+2020-06-29T23:01:53.1703677+08:00;Thread#13;Info;test results published
+2020-06-29T23:01:53.1703677+08:00;Thread#13;Info;generating reports
+2020-06-29T23:01:53.3179726+08:00;Thread#13;Info;Starting external report generation process
+2020-06-29T23:01:55.6905410+08:00;Thread#13;Info;Successfully generated reports.
+2020-06-29T23:01:55.6925341+08:00;Thread#13;Info;Successfully generated reports
+2020-06-29T23:01:55.7005412+08:00:Total: 1
+2020-06-29T23:01:55.7025376+08:00:Succeeded: 1
+2020-06-29T23:01:55.7025376+08:00:Ignored: 0
+2020-06-29T23:01:55.7035053+08:00:Pending: 0
+2020-06-29T23:01:55.7035053+08:00:Skipped: 0
+2020-06-29T23:01:55.7035053+08:00:Failed: 0
+2020-06-29T23:01:55.7174670+08:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-06-29T23:01:55.7174670+08:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\laksh\source\repos\TestProjectAuto\TestResults\Unnamed project__2020-06-29T230138.html'
+========== End of log file ==========

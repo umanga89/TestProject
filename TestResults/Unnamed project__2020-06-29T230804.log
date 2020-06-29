@@ -1,0 +1,17 @@
+﻿2020-06-29T23:08:04.3034673+08:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-06-29T23:08:04.3034673+08:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.2.31 in Framework clr40 in x86 mode execution started
+2020-06-29T23:08:04.3034673+08:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\laksh\source\repos\TestProjectAuto\packages\SpecRun.Runner.3.2.31\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-06-29T23:08:04.3874430+08:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\laksh\source\repos\TestProjectAuto\TestProjectAuto\bin\Debug\TestProjectAuto.dll
+2020-06-29T23:08:04.3874430+08:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\laksh\source\repos\TestProjectAuto\TestResults" (default)
+2020-06-29T23:08:04.3874430+08:00;VSTestExecutionThread;Info;Profile: 
+2020-06-29T23:08:04.4452872+08:00;VSTestExecutionThread;Info;Log file path: C:\Users\laksh\source\repos\TestProjectAuto\TestResults\Unnamed project__2020-06-29T230804.log
+2020-06-29T23:08:04.4542624+08:00;Thread#13;Info;Checking activation
+2020-06-29T23:08:05.3896024+08:00;Thread#13;Error;No tests executed (activation needed)
+2020-06-29T23:08:05.4105488+08:00:Total: 0
+2020-06-29T23:08:05.4145355+08:00:Succeeded: 0
+2020-06-29T23:08:05.4155340+08:00:Ignored: 0
+2020-06-29T23:08:05.4155340+08:00:Pending: 0
+2020-06-29T23:08:05.4165330+08:00:Skipped: 0
+2020-06-29T23:08:05.4165330+08:00:Failed: 0
+2020-06-29T23:08:05.4284982+08:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========
